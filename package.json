@@ -1,0 +1,25 @@
+{
+  "name": "spotify-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoffeeAndPastel/spotify-image.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoffeeAndPastel/spotify-image/issues"
+  },
+  "homepage": "https://github.com/CoffeeAndPastel/spotify-image#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
